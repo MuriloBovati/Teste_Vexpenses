@@ -1,0 +1,45 @@
+Olá, Prezado Cliente segue abaixo um mini tutorial de como realizar o controle de despesas.
+Ao acessar a tela inicial clicar em "CONFIGURAÇÂO" localizado no canto direito da tela abaixo do nome da empresa.
+
+IMG
+
+Em seguida ir até o menu que esta visivel no meio da tela no canto esquerdo Clique em "DADOS DA EMPRESA" caso esteja Diferente da imagem
+
+IMG
+
+Em seguida clique em descendo aparecera o menu "Politicas de Despesa", ao clicar uma nova area aparecera.
+
+IMG
+
+Subindo um pouco a tela no canto Direito logo abaixo do menu "CONFIGURAÇOES" existe um botao verde "Criar politica"
+
+IMG
+
+Clicando no botao Verde Um pequeno pop-Up aparece pedindo algumas informaçoes basta prencher como desejado e Clicar no botao Verde "SALVAR"
+
+IMG
+
+Novos menu aparecerao, descendo a pagina podera ver uma planilha com os tipos de despeza um campo para definir o limite do valor para cada tipo de despeza
+basta colocar o valor maximo desejado da despesa subir a pagina e clicar no botao verde "SALVAR TODOS"
+
+IMG
+
+Apos a confirmação va ate a aba "MEMBROS VINCULADOS"
+
+IMG
+
+Basta selecionar o menbro que deseja ter esse controle da despesa e clicar em "SALVAR"
+
+IMG
+
+E o processo esta completo
+
+Esperamos ter solucionados todas as duvidas
+
+Att Grupo
+
+Vexpenses
+
+
+
+
